@@ -55,4 +55,12 @@ for solving leetcodes
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pra-shant007/leetcode/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Pra-shant007/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Pra-shant007/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
